@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hotelová</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="headers">
+        <item>Rezervace</item>
+        <item>Pokoje</item>
+        <item>Služby</item>
+        <item>O hotelu</item>
+        <item>Kontakty</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>Rezervační formulář</item>
+        <item>Typy pokojů</item>
+        <item>Služby a ceník</item>
+        <item>Informace</item>
+        <item>Kontaktujte nás a náš tým Vám zodpoví veškeré Vaše dotazy.</item>
+    </string-array>
+</resources>
